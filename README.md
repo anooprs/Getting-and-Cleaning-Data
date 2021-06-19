@@ -52,4 +52,5 @@ Use data: to read and use the data it is necessary to run the following command:
 It will correspond to a 180x68 data frame w/ 30 subjects and 6 activities (i.e., 30 x 6 = 180 rows)
 
  **End**
+          
 The provided R script makes assumptions on the location of files to process (dataset). However, no assumptions is made on the numbers of rows and columns of the data frame to process during the analysis steps.
